@@ -1,13 +1,14 @@
 # 自学工作簿
 
-一组用于自学和练习的 Jupyter Notebook，内容涵盖一些常用的 Python 数据结构、常用库和应用实例等。
+一组用于自学和练习的 Jupyter Notebook，内容涵盖一些常用的 Python 数据结构、库和应用实例等。
 
 ## 常用库
 - `deque.ipynb`：Python 内置的双向链表 `deque`
 - `numpy.ipynb`：第三方科学计算基础库 `numpy`
+- `pandas.ipynb`：第三方数据分析基础库 `pandas`
+- `polars.ipynb`：第三方数据分析基础库 `polars`
 - *WIP* `matplotlib.ipynb`：第三方作图基础库 `matplotlib`
-- *TODO* `pandas.ipynb`：第三方数据分析基础库 `pandas`
-- *TODO* `polars.ipynb`：第三方数据分析基础库 `polars`
+- *TODO* `seaborn.ipynb`：第三方作图基础库 `seaborn`
 
 ## 应用实例
 
