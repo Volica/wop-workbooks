@@ -1,0 +1,12 @@
+[project]
+name = "wop-workbooks"
+version = "0.1.0"
+description = "A series of self-teaching workbooks for Python data science libraries."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "polars",
+]
