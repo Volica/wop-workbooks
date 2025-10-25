@@ -7,8 +7,8 @@
 - `numpy.ipynb`：第三方科学计算基础库 `numpy`
 - `pandas.ipynb`：第三方数据分析基础库 `pandas`
 - `polars.ipynb`：第三方数据分析基础库 `polars`
-- *WIP* `matplotlib.ipynb`：第三方作图基础库 `matplotlib`
-- *TODO* `seaborn.ipynb`：第三方作图基础库 `seaborn`
+- `matplotlib.ipynb`：第三方作图基础库 `matplotlib`
+- `seaborn.ipynb`：第三方作图基础库 `seaborn`
 
 ## 应用实例
 
